@@ -8,12 +8,12 @@
 </head>
 <body>
   <div class="gallery">
-    <img src="images/pic 1.jpg" alt="">
-    <img src="images/pic 2.jpg" alt="">
-    <img src="images/pic 3.jpg" alt="">
-    <img src="images/pic 4.jpg" alt="">
-    <img src="images/pic 5.jpg" alt="">
-    <!-- Add more <img> tags as needed -->
+    <img src="images/pic 1.png" alt="">
+    <img src="images/pic 2.png" alt="">
+    <img src="images/pic 3.png" alt="">
+    <img src="images/pic 4.png" alt="">
+    <img src="images/pic 5.png" alt="">
+    \\waba waba
   </div>
 </body>
 </html>
